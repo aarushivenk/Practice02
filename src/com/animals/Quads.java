@@ -5,7 +5,7 @@ public class Quads implements Animal {
         return "hello";
     }
     public Integer numlegs() {
-        return 6;
+        return 4;
     }
 
 }
